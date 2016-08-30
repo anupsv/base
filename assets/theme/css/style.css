@@ -1167,7 +1167,7 @@ textArea.form-flat {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url(../images/my-pict.jpg);
+  background-image: url(http://www.mdchhs.com/wp-content/uploads/2014/10/bigstock-Safety-concept-Closed-Padlock-52215034.jpg);
   position: absolute;
   left: 0;
   top: 0;
@@ -1180,7 +1180,7 @@ textArea.form-flat {
   }
 }
 .my-profile .my-pict .overfly {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.4);
   position: absolute;
   width: 100%;
   left: 0;
