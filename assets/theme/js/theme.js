@@ -324,7 +324,7 @@
   //Map
   function initMap() {
     $('#map-contact').gmap({
-      'center': '-6.600000, 106.800000',
+      'center': '42.3399566, -71.0909322',
       'zoom': 15,
       scrollwheel: false,
       'disableDefaultUI': false,
